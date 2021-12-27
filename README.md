@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdouallah Tahdi
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning C and python
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently learning angular
+- 💞️ I’m looking to collaborate on any java or angular projects
 - 📫 How to reach me abdouallah.tahdi@mail.mcgill.ca
 
 <!---
