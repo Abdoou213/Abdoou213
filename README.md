@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Abdouallah Tahdi
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on any java or PHP projects
-- 📫 How to reach me abdoou213@gmail.com
+# Abddouallah Tahdi
 
-<!---
-Abdoou213/Abdoou213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Introduction
+Hello! I'm Abdouallah, a fourth year Spftware Engineering Student ffrom McGill who is enthusiastic about building innovative and practical solutions. This GitHub profile serves as a platform to showcase my journey and progress in the field. Here, you'll find a collection of projects, demonstrating my technical skills, problem-solving abilities, and creativity. Feel free to explore the repository and discover the various facets of my software development expertise.
+
+
+### Skills
+As a software engineering student, I have acquired a diverse skill set throughout my learning journey. Some of the key skills I possess include:
+
+Programming languages: Java, JavaScript, PHP
+Web development: HTML, CSS, JavaScript, React.js,
+Mobile app development: React Native
+Databases: MySQL, 
+Version control: Git, GitHub
+Problem-solving and algorithm design
+To gain a more comprehensive understanding of my skills, please refer to the individual project repositories and the technologies utilized.
+
+
+### Education
+I am currently pursuing a Bachelor's degree in Software Engineering at McGill University. I expect to graduate in December 2023. Throughout my academic journey, I have gained a solid foundation in computer science principles, software development methodologies, and problem-solving techniques. Some relevant coursework includes:
+
+Data Structures and Algorithms
+Object-Oriented Programming
+Software Engineering Practices
+Database Management Systems
+Operating Systems
+
+### Contact Information
+Thank you for taking the time to explore my GitHub profile! If you have any questions, suggestions, or opportunities, I would be delighted to connect with you. You can reach me through the following channels:
+
+Email: abdoou213@gmail.com
+LinkedIn: https://www.linkedin.com/in/abdouallah-tahdi-840335228/
+I look forward to connecting with you and discussing any potential collaborations or opportunities.
