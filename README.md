@@ -1,4 +1,4 @@
-# Abddouallah Tahdi
+# Abdouallah Tahdi
 
 ### Introduction
 Hello! I'm Abdouallah, a fourth year Spftware Engineering Student ffrom McGill who is enthusiastic about building innovative and practical solutions. This GitHub profile serves as a platform to showcase my journey and progress in the field. Here, you'll find a collection of projects, demonstrating my technical skills, problem-solving abilities, and creativity. Feel free to explore the repository and discover the various facets of my software development expertise.
