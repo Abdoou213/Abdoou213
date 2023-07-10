@@ -7,19 +7,19 @@ Hello! I'm Abdouallah, a fourth year Spftware Engineering Student ffrom McGill w
 ### Skills
 As a software engineering student, I have acquired a diverse skill set throughout my learning journey. Some of the key skills I possess include:
 
-Programming languages: Java, C, PHP
+**Programming languages:** Java, C, PHP
 
-Web development: HTML, CSS, JavaScript, React.js
+**Web development:** HTML, CSS, JavaScript, React.js
 
-Mobile app development: React Native
+**Mobile app development:** React Native, Android Studio
 
-Databases: PostgreSQL, IBM DB2
+**Databases:** PostgreSQL, IBM DB2
 
-Version control and web-based platforms: Git, Github, Gitlab, Bitbucket
+**Version control and web-based platforms:** Git, Github, Gitlab, Bitbucket
 
-Other technologies: Jira, Confluence
+**Other technologies:** Jira, Confluence
 
-Problem-solving and algorithm design
+**Problem-solving and algorithm design**
 
 To gain a more comprehensive understanding of my skills, please refer to the individual project repositories and the technologies utilized.
 
@@ -36,8 +36,8 @@ Operating Systems
 ### Contact Information
 Thank you for taking the time to explore my GitHub profile! If you have any questions, suggestions, or opportunities, I would be delighted to connect with you. You can reach me through the following channels:
 
-Email: abdoou213@gmail.com
+**Email:** abdoou213@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/abdouallah-tahdi-840335228/
+**LinkedIn:** https://www.linkedin.com/in/abdouallah-tahdi-840335228/
 
 I look forward to connecting with you and discussing any potential collaborations or opportunities.
