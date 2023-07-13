@@ -23,6 +23,12 @@ As a software engineering student, I have acquired a diverse skill set throughou
 
 To gain a more comprehensive understanding of my skills, please refer to the individual project repositories and the technologies utilized.
 
+### Experience
+
+#### Software Engineer Intern @ PTC
+
+#### Software Engineer Intern @ Bauer Hockey
+
 
 ### Education
 I am currently pursuing a Bachelor's degree in Software Engineering at McGill University. I expect to graduate in December 2023. Throughout my academic journey, I have gained a solid foundation in computer science principles, software development methodologies, and problem-solving techniques. Some relevant coursework includes:
