@@ -30,7 +30,9 @@ To gain a more comprehensive understanding of my skills, please refer to the ind
 #### Software Engineer Intern @ Bauer Hockey
 • Developed a PHP web application for the Field Test department to facilitate communication with 
 testers, improve the feedback received and allow testers from around the world to work with Bauer
+
 • Designed and implemented a PostgreSQL database to support it
+
 • Led multiple meetings with colleagues from Field Test to gather requirements and/or feedback on my 
 progress with the web application
 
