@@ -1,19 +1,19 @@
 # Abdouallah Tahdi
 
 ### Introduction
-Hello! I'm Abdouallah, a fourth year Spftware Engineering Student ffrom McGill who is enthusiastic about building innovative and practical solutions. This GitHub profile serves as a platform to showcase my journey and progress in the field. Here, you'll find a collection of projects, demonstrating my technical skills, problem-solving abilities, and creativity. Feel free to explore the repository and discover the various facets of my software development expertise.
+Hello! I'm Abdouallah, a fourth year Software Engineering Student from McGill who is enthusiastic about building innovative and practical solutions. This GitHub profile serves as a platform to showcase my journey and progress in the field. Here, you'll find a collection of projects, demonstrating my technical skills, problem-solving abilities, and creativity. Feel free to explore the repository and discover the various facets of my software development expertise.
 
 
 ### Skills
 As a software engineering student, I have acquired a diverse skill set throughout my learning journey. Some of the key skills I possess include:
 
-**Programming languages:** Java, C, PHP
+**Programming languages:** Java, Python, C, PHP
 
 **Web development:** HTML, CSS, JavaScript, React.js
 
 **Mobile app development:** React Native, Android Studio
 
-**Databases:** PostgreSQL, IBM DB2
+**Databases:** PostgreSQL, IBM DB2, MongoDB
 
 **Version control and web-based platforms:** Git, Github, Gitlab, Bitbucket
 
@@ -23,11 +23,26 @@ As a software engineering student, I have acquired a diverse skill set throughou
 
 To gain a more comprehensive understanding of my skills, please refer to the individual project repositories and the technologies utilized.
 
+**Leetcode:** https://leetcode.com/Abdoou213/
+
+Over 300 leetcode problems solved
+Frequent contest participant
+Active daily
+
 ### Experience
 
-#### Software Engineer Intern @ PTC
+#### Software Engineer Intern @ PTC                                                                                                          June 2023 - August 2023
+• Enriched developer toolset by implementing a new feature using Java, enhancing efficiency and functionality.
 
-#### Software Engineer Intern @ Bauer Hockey
+• Assessed and improved production code quality, identifying solutions for ongoing development ease.
+
+• Streamlined performance testing for upcoming releases by creating a JMeter script and scripting in JavaScript using ThingWorx services.
+
+• Collaborated within an Agile environment, actively participating in daily scrums, sprint planning, and retrospectives.
+
+• Utilized Atlassian suite tools to facilitate seamless teamwork and project management.
+
+#### Software Engineer Intern @ Bauer Hockey                                                                                                  May 2022 - August 2022
 • Developed a PHP web application for the Field Test department to facilitate communication with 
 testers, improve the feedback received and allow testers from around the world to work with Bauer
 
