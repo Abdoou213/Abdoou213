@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Abdouallah, a passionate fourth-year Software 
 
 As a software engineering enthusiast, I've embarked on a journey that has equipped me with a diverse skill set. Here are some of the key areas I've mastered:
 
-- **Languages:** Java, Python, C, PHP
+- **Languages:** Java, Python, C, PHP, SQL, Bash
 - **Web Development:** HTML, CSS, JavaScript, React.js
 - **Mobile App Development:** React Native, Android Studio
 - **Databases:** PostgreSQL, IBM DB2, MongoDB
