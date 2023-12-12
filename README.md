@@ -23,14 +23,14 @@ To dive deeper into my expertise, take a tour of my project repositories and dis
 
 ## 💼 Professional Footprints
 
-### Software Engineer Intern @ PTC | June 2023 - August 2023
+### Software Engineering Intern @ PTC | June 2023 - August 2023
 - Implemented a groundbreaking Java feature to boost efficiency and functionality in developer tools.
 - Elevated production code quality, pioneering seamless solutions for ongoing development.
 - Masterminded performance testing using JMeter and JavaScript scripting with ThingWorx services.
 - Thrived in an Agile environment, contributing proactively to scrums, sprint planning, and retrospectives.
 - Orchestrated teamwork and project management using Atlassian suite tools.
 
-### Software Engineer Intern @ Bauer Hockey | May 2022 - August 2022
+### Software Engineering Intern @ Bauer Hockey | May 2022 - August 2022
 - Engineered a PHP web application that revolutionized communication with testers in the Field Test department.
 - Cultivated an international collaboration by enabling testers worldwide to collaborate seamlessly with Bauer Hockey.
 - Crafted a robust PostgreSQL database infrastructure to support the web application's functionalities.
